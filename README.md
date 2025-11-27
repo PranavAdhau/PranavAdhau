@@ -1,6 +1,6 @@
 <!-- Header Image / Banner -->
 <p align="center">
-  <img src="https://github.com/PranavAdhau/PranavAdhau/blob/main/git-hub-cover-photo.jpg?raw=true" width="200" />
+  <img src="https://github.com/PranavAdhau/PranavAdhau/blob/main/git-hub-cover-photo.jpg?raw=true" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Pranav Adhau</h1>

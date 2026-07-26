@@ -6,66 +6,41 @@
 <h1 align="center">👋 Hi, I'm Pranav Adhau</h1>
 
 <p align="center">
-  <b>Data Analyst | Business Intelligence | Analytics Engineering</b><br>
-  Transforming raw data into meaningful insights through SQL, Python, and Visualization.
+  <b>Backend Software Engineer | Ruby on Rails | REST APIs</b><br>
+  Building scalable backend systems and reliable API integrations.
 </p>
 
 ---
 
 ## 🧩 About Me  
-Data Analyst skilled in SQL, Python, BI tools, ETL, and statistical analysis—passionate about building scalable data pipelines and delivering actionable business insights.  
-Proficient in dashboarding (Tableau/Power BI), analytics storytelling, and designing end-to-end data solutions.  
+Backend Software Engineer with experience building RESTful APIs, integrating third-party services, and improving system reliability through structured observability and debugging practices.  
+Comfortable working across the backend stack — from data modeling and background job processing to production monitoring and performance optimization.  
 Always learning, always building.
 
 ---
 
 ## 🏆 Areas of Expertise  
-- **Data Cleaning & Transformation**  
-- **Statistical Analysis & Insights**  
-- **ETL Pipelines & Data Modeling**  
-- **KPI Design & Metric Development**  
-- **Dashboard Development (Power BI, Tableau)**  
-- **Cohort, Funnel & Retention Analytics**  
-- **SQL Optimization & Query Tuning**  
-- **Data Storytelling & Reporting**
-
----
-
-## 📂 Featured Projects  
-
-### 🔷 **Mutual Fund Analytics – Finance & Investments**  
-🔗 GitHub: https://github.com/PranavAdhau/mutual_fund_analytics  
-**Tech:** Python, PostgreSQL, Power BI, MFAPI  
-- Built an end-to-end Mutual Fund Analytics pipeline integrating NAV data from MFAPI into PostgreSQL.  
-- Computed key financial metrics: CAGR, Sharpe, Sortino, Volatility, SIP vs Lumpsum analysis.  
-- Developed an interactive Power BI dashboard with rolling returns, drill-through, and risk–return analytics.
-
----
-
-### 🔷 **SQL Data Warehouse & Analytics – Retail/ERP**  
-🔗 GitHub: https://github.com/PranavAdhau/sql-data-warehouse-project  
-**Tech:** SQL, PostgreSQL, ETL, Data Modeling  
-- Designed a Data Warehouse consolidating CRM & ERP datasets (50,000+ records).  
-- Built Bronze–Silver–Gold architecture with ETL pipelines and Star Schema modeling.  
-- Delivered analytical datasets enabling KPIs like RFM, AOV, Monthly Spend, Customer Lifetime.
-
----
-
-### 🔷 **Customer Segmentation & Retention Insights – E-commerce**  
-🔗 GitHub: https://github.com/PranavAdhau/IntermediateSQL  
-**Tech:** SQL, PostgreSQL, Python  
-- Analyzed 50,000+ e-commerce transactions to uncover retention & revenue insights.  
-- Built segmentation models (High/Mid/Low value), customer cohorts, and churn analytics.  
-- Identified 12,000 high-value customers contributing 66% of revenue; informed retention strategy.
+- **RESTful API Design & Development**  
+- **Backend Architecture (MVC, Ruby on Rails)**  
+- **Database Design (MySQL, PostgreSQL)**  
+- **Background Job Processing (ActiveJob, Resque)**  
+- **Authentication & Authorization (OAuth 2.0)**  
+- **Observability & Production Debugging (Datadog, Bugsnag, OpenSearch)**  
+- **Automated Testing (RSpec)**  
+- **Performance & Query Optimization**
 
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Python, SQL  
-**Databases:** PostgreSQL, MySQL  
-**Tools:** Power BI, Tableau, Excel, Git  
-**Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-**Other:** ETL, Data Modeling, Jupyter Notebook
+**Languages:** Ruby, Java, JavaScript, C++  
+**Backend:** Ruby on Rails, Spring Boot  
+**Frontend:** HTML, CSS, React  
+**Databases:** MySQL, PostgreSQL, Redis  
+**APIs & Integration:** REST APIs, OAuth 2.0, JSON, Webhooks  
+**Background Processing:** ActiveJob, Resque  
+**Monitoring & Observability:** Datadog, Bugsnag, OpenSearch  
+**Testing:** RSpec, Postman  
+**Tools:** Git, GitHub, Docker, Linux
 
 ---
 

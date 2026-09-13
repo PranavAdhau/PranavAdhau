@@ -1,3 +1,4 @@
+
 <!-- Header Image / Banner -->
 <p align="center">
   <img src="https://github.com/PranavAdhau/PranavAdhau/blob/main/git-hub-cover-photo.jpg?raw=true" width="100%" />
@@ -6,7 +7,7 @@
 <h1 align="center">👋 Hi, I'm Pranav Adhau</h1>
 
 <p align="center">
-  <b>Backend Software Engineer | Ruby on Rails | REST APIs</b><br>
+  <b>Backend Software Engineer | Java | Spring Boot | REST APIs</b><br>
   Building scalable backend systems and reliable API integrations.
 </p>
 
@@ -14,32 +15,33 @@
 
 ## 🧩 About Me  
 Backend Software Engineer with experience building RESTful APIs, integrating third-party services, and improving system reliability through structured observability and debugging practices.  
-Comfortable working across the backend stack — from data modeling and background job processing to production monitoring and performance optimization.  
+Comfortable working across the backend stack — from data modeling and background processing to production monitoring and performance optimization.  
 Always learning, always building.
 
 ---
 
 ## 🏆 Areas of Expertise  
 - **RESTful API Design & Development**  
-- **Backend Architecture (MVC, Ruby on Rails)**  
+- **Backend Development (Java, Spring Boot)**  
 - **Database Design (MySQL, PostgreSQL)**  
-- **Background Job Processing (ActiveJob, Resque)**  
+- **Background Processing & Asynchronous Workflows**  
 - **Authentication & Authorization (OAuth 2.0)**  
+- **Concurrency & Idempotency**  
 - **Observability & Production Debugging (Datadog, Bugsnag, OpenSearch)**  
-- **Automated Testing (RSpec)**  
+- **Automated Testing (JUnit 5, Mockito)**  
 - **Performance & Query Optimization**
 
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Ruby, Java, JavaScript, C++  
-**Backend:** Ruby on Rails, Spring Boot  
+**Languages:** Java, JavaScript, C++, SQL  
+**Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate  
 **Frontend:** HTML, CSS, React  
 **Databases:** MySQL, PostgreSQL, Redis  
-**APIs & Integration:** REST APIs, OAuth 2.0, JSON, Webhooks  
-**Background Processing:** ActiveJob, Resque  
+**APIs & Integration:** REST APIs, OAuth 2.0, JSON, Webhooks, Third-Party API Integration  
+**Background Processing:** RabbitMQ, Asynchronous Processing, Background Task Processing  
 **Monitoring & Observability:** Datadog, Bugsnag, OpenSearch  
-**Testing:** RSpec, Postman  
+**Testing:** JUnit 5, Mockito, Postman  
 **Tools:** Git, GitHub, Docker, Linux
 
 ---
@@ -52,5 +54,5 @@ Always learning, always building.
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving my repositories a star!
+  ⭐ If you like my work, consider g⁷iving my repositories a star!
 </p>

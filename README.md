@@ -1,4 +1,3 @@
-
 <!-- Header Image / Banner -->
 <p align="center">
   <img src="https://github.com/PranavAdhau/PranavAdhau/blob/main/git-hub-cover-photo.jpg?raw=true" width="100%" />
@@ -7,42 +6,47 @@
 <h1 align="center">👋 Hi, I'm Pranav Adhau</h1>
 
 <p align="center">
-  <b>Backend Software Engineer | Java | Spring Boot | REST APIs</b><br>
-  Building scalable backend systems and reliable API integrations.
+  <b>Web Developer | PHP | CodeIgniter | MySQL | JavaScript</b><br>
+  Building and maintaining web applications, REST APIs, and third-party integrations.
 </p>
 
 ---
 
 ## 🧩 About Me  
-Backend Software Engineer with experience building RESTful APIs, integrating third-party services, and improving system reliability through structured observability and debugging practices.  
-Comfortable working across the backend stack — from data modeling and background processing to production monitoring and performance optimization.  
-Always learning, always building.
+Web Developer with 1.5 years of experience developing and maintaining web applications using PHP, CodeIgniter 3, MySQL, and JavaScript.  
+I build CRUD features, form validation and file uploads, AJAX-based search, and REST API integrations, and I troubleshoot application issues using logs, Postman, and cURL.  
+I've also worked with Ruby on Rails and Resque background jobs on QuickBooks Online and Xero accounting sync.
+
+---
+
+## 🚀 Featured Projects  
+- **School ERP:** PHP, CodeIgniter 3, MySQL, AJAX. Admin modules for users, academics, and visitors, with user-wise permissions and AJAX search with autocomplete and pagination.  
+- **Homestay Booking Website:** PHP, CodeIgniter 3, MySQL, Bootstrap. Multi-property bookings with overlap checks, responsive pages, and WhatsApp booking confirmations through the Meta WhatsApp Business Cloud API.  
+- **QuickBooks Online & Xero Sync:** Ruby on Rails, Resque. Accounting data sync through REST APIs, with better retry handling, protection against duplicate syncs, and faster queries.
 
 ---
 
 ## 🏆 Areas of Expertise  
-- **RESTful API Design & Development**  
-- **Backend Development (Java, Spring Boot)**  
-- **Database Design (MySQL, PostgreSQL)**  
-- **Background Processing & Asynchronous Workflows**  
-- **Authentication & Authorization (OAuth 2.0)**  
-- **Concurrency & Idempotency**  
-- **Observability & Production Debugging (Datadog, Bugsnag, OpenSearch)**  
-- **Automated Testing (JUnit 5, Mockito)**  
-- **Performance & Query Optimization**
+- **Web Application Development & Maintenance (PHP, CodeIgniter 3)**  
+- **CRUD Operations, Form Validation & File Uploads**  
+- **REST APIs & Third-Party Integrations**  
+- **AJAX-based Search, Autocomplete & Pagination**  
+- **Responsive Pages (Bootstrap, JavaScript)**  
+- **Database Operations (MySQL, PostgreSQL)**  
+- **Background Jobs (Resque)**  
+- **Troubleshooting & Debugging (Logs, Postman, cURL)**
 
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Java, JavaScript, C++, SQL  
-**Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate  
-**Frontend:** HTML, CSS, React  
+**Languages:** PHP, JavaScript, Python, SQL, Ruby, C++  
+**Frameworks:** CodeIgniter 3, Ruby on Rails  
+**Frontend:** HTML, CSS, Bootstrap, AJAX  
 **Databases:** MySQL, PostgreSQL, Redis  
-**APIs & Integration:** REST APIs, OAuth 2.0, JSON, Webhooks, Third-Party API Integration  
-**Background Processing:** RabbitMQ, Asynchronous Processing, Background Task Processing  
-**Monitoring & Observability:** Datadog, Bugsnag, OpenSearch  
-**Testing:** JUnit 5, Mockito, Postman  
-**Tools:** Git, GitHub, Docker, Linux
+**APIs & Integration:** REST APIs, Third-Party API Integrations (QuickBooks Online, Xero, Meta WhatsApp Business Cloud API)  
+**Background Processing:** Resque, Background Jobs  
+**Tools:** Git, GitHub, Postman, cURL, Docker, Linux  
+**AI-Assisted Development:** Claude Code, Cursor, MCP
 
 ---
 
@@ -54,5 +58,5 @@ Always learning, always building.
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider g⁷iving my repositories a star!
+  ⭐ If you like my work, consider giving my repositories a star!
 </p>

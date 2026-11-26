@@ -52,7 +52,6 @@ I've also worked with Ruby on Rails and Resque background jobs on QuickBooks Onl
 
 ## 📫 Connect With Me  
 - **Email:** pranavadhau1165@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/adhau-pranav  
 - **GitHub:** https://github.com/PranavAdhau  
 
 ---

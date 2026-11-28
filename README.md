@@ -13,7 +13,7 @@
 ---
 
 ## 🧩 About Me  
-Web Developer with 1.5 years of experience developing and maintaining web applications using PHP, CodeIgniter 3, MySQL, and JavaScript.  
+Web Developer with 1+ years of experience developing and maintaining web applications using PHP, CodeIgniter 3, MySQL, and JavaScript.  
 I build CRUD features, form validation and file uploads, AJAX-based search, and REST API integrations, and I troubleshoot application issues using logs, Postman, and cURL.  
 I've also worked with Ruby on Rails and Resque background jobs on QuickBooks Online and Xero accounting sync.
 

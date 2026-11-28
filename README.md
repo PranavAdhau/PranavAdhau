@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm Pranav Adhau</h1>
 
 <p align="center">
-  <b>Web Developer | PHP | CodeIgniter | MySQL | JavaScript</b><br>
+  <b>Web Developer | PHP | Java | CodeIgniter | Rails | Spring Boot | MySQL | JavaScript</b><br>
   Building and maintaining web applications, REST APIs, and third-party integrations.
 </p>
 
